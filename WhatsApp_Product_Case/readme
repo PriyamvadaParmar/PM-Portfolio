@@ -1,0 +1,46 @@
+# PM-Portfolio
+
+# WhatsApp Product Case Study
+
+## Overview
+This case study explores WhatsApp from a **Product Manager’s perspective**, focusing on real user behavior, product trade-offs, and problem framing.
+
+The objective is not to redesign WhatsApp superficially, but to demonstrate **PM-style thinking**:
+- Understanding user segments
+- Identifying tensions between simplicity and scale
+- Framing a problem worth solving before jumping to solutions
+
+This case study is part of an ongoing **PM-in-practice portfolio**.
+
+---
+
+## Contents
+- `Product_Teardown.md` — Product understanding, strengths, gaps, and opportunity framing
+
+---
+
+## Product Context
+**Product:** WhatsApp  
+**Primary Use:** Personal communication  
+**Evolved Use:** Community, semi-official, and informal work communication  
+
+WhatsApp’s widespread adoption has created new usage patterns that introduce product challenges not originally designed for.
+
+---
+
+## Methodology
+This case study is based on:
+- First-hand daily usage
+- Observation of user behavior across personal, community, and semi-official contexts
+- PM frameworks such as problem framing, user segmentation, and trade-off analysis
+
+No proprietary or internal data is used.
+
+---
+
+## Status
+🚧 In Progress  
+Next planned artifacts:
+- Problem Statement
+- PRD (Feature Improvement)
+- Prioritization & Trade-offs
